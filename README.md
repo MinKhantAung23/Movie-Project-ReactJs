@@ -1,8 +1,25 @@
-# React + Vite
+# The Movies 🎥🌌
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **TheMovies** — a React-based movie and series browsing website that allows users to explore movies, TV shows, and casts, with features like search and recommendations.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [The Movies Universe](https://themoviesuniverse.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+
+- Browse movies and TV shows with detailed information.
+- Search for movies and series with auto-updating results.
+- View cast information and recommendations.
+- Responsive design for desktop, tablet, and mobile screens.
+- Infinite scroll for loading more results dynamically.
+
+## 🚀 Technologies Used
+
+- **Frontend:** React, Tailwind CSS, shadcn/ui , Swiper.js
+- **Backend API:** [TMDB API](https://developers.themoviedb.org/3)
+- **Deployment:** Netlify
+- **Routing:** React Router DOM
+- **State Management:** React Query and Redux Toolkit (rtk)
+
+## 📬 Feedback
+
+Feel free to share feedback or contribute to the project! You can reach me at [minkhantaung743@gmail.com].
