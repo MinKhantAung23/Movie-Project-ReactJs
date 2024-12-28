@@ -23,3 +23,15 @@ Welcome to **TheMovies** — a React-based movie and series browsing website tha
 ## 📬 Feedback
 
 Feel free to share feedback or contribute to the project! You can reach me at [minkhantaung743@gmail.com].
+
+---
+## Installation
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/MinKhantAung23/Movie-Project-ReactJs.git
+   cd Movie-Project-ReactJs
+   
